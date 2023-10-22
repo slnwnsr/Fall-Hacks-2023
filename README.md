@@ -19,6 +19,7 @@ Unzip the folder
 Open the Unity game file 
 Play the game 
 
-Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end)
+**Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end)**
+https://github.com/alyssa-k528/fall-hacks-2023-FAAS.git
 
 ZIP file of your source code and README
